@@ -2,7 +2,7 @@ import './App.css';
 import FirstComponent from "./components/FirstComponent"
 import MyComponent from './components/MyComponent';
 import TemplateExpressions from "./components/TemplateExpressions"
-
+import Events from './components/Events';
 function App() {
   return (
     <div className="App">
@@ -10,6 +10,7 @@ function App() {
       <FirstComponent/>
       <TemplateExpressions/>
       <MyComponent/>
+      <Events/>
       
     </div>
   );
