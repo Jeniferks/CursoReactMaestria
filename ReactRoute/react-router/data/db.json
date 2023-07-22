@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "name": "Boné",
+            "price": "25",
+            "id": 1
+        },
+        {
+            "name": "relogio",
+            "price": "100",
+            "id": 2
+        },
+        {
+            "name": "Camiseta",
+            "price": "50",
+            "id": 3
+        },
+        {
+            "name": "tenis",
+            "price": "50",
+            "id": 4
+        }
+    ]
+}
