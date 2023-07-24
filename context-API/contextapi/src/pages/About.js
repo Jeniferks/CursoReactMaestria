@@ -1,6 +1,6 @@
 import { useContext } from "react"
 import { CounterContext } from "../components/context/CounterContext"
-
+ //hook foi refatorado em home, mesmo resultado mas nao precisa importa usecontext e counter context
 const About = () => {
   const {counter} = useContext(CounterContext)
   return (
